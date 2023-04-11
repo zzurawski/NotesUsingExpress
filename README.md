@@ -1,35 +1,18 @@
+# Note Taker Starter Code
+Zach Zurawski
 
-  # ReadME Generator
+## Description 
+This project utilizes knowlege in express.js and routes. Using this knowlege, we can create notes and post them to a wall.
+The purpose is displaying easy to see notes as well as be able to instantaneously post and/or delete them.
 
-  https://img.shields.io/badge/License-MIT-yellow.svg
+## How to Use
+You must install express to utilize this application. Then, you "npm start" to actualize this program.
 
-  ## Table of Contents
-  -> [Description](#description)
-  -> [User Story](#UserStory)
-  -> [How to Use](#HowtoUse)
-  -> [Purpose](#Purpose)
-  -> [Collaborators](#Collaborators)
-  -> [License](#License)
-  -> [Contact](#Contact)
-  
-  ## Description
-  This programs prompts the user with questions using inquirer to make a professional README.md for your repos.
-  
-  ## User Story
-  undefined
-  
-  ## How to Use
-  To use this program, you must install inquirer@8.2.4 and intialize the npm then do 'node index' in the GitHub command terminal.
-  
-  ## Purpose
-  This solves the issues of any READMEs that do not contain all the necessary information 
+## License
+MIT
 
-  ## Collaborators
-  No collaborators
-  
-  ## License 
-  This repository uses the MIT license found at https://mit-license.org.
+## Collaborators
+None
 
-  ## Contact Me
-  GitHub: https://github.com/zzurawski
-  
+## Future Plans
+Complete the project to not only look more pleasing to the eye but to also comprehend express and clean up routes and the delete function.
